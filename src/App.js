@@ -1,6 +1,6 @@
 import React, { Component} from 'react';
 import PlayerCard from './PlayerCard';
-import "./index.css";
+
 
 class Game extends Component {
   // let playerOneMove = this.state.playerOne;
